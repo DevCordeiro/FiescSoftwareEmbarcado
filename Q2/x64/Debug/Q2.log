@@ -1,0 +1,4 @@
+﻿  main.c
+D:\FIESC\Embarcados\Q2\main.c(37,23): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+D:\FIESC\Embarcados\Q2\main.c(93,15): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Q2.vcxproj -> D:\FIESC\Embarcados\Q2\x64\Debug\Q2.exe
